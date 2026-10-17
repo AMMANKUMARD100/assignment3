@@ -1,4 +1,0 @@
-Subtotal: $100
-Tip Percentage: 15%
-Calculated Tip: $15
-Total Amount to Pay: $115
